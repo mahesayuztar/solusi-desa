@@ -7,13 +7,13 @@ The application is built using Laravel, styled with Bootstrap and jQuery, and ut
 
 ## Screenshots
 ### Dashboard
-![Image](https://github.com/user-attachments/assets/633bdf2f-ad12-4bfe-83df-9ea7e9b0ff2f)
+![Image](https://github.com/user-attachments/assets/735831f4-ec24-4d87-80a5-6fbcb53b0991)
 
 ### Form Laporan 
-![Image](https://github.com/user-attachments/assets/774e6c3c-a64a-4143-b749-ec3787b885e6)
+![Image](https://github.com/user-attachments/assets/633bdf2f-ad12-4bfe-83df-9ea7e9b0ff2f)
 
 ### Login Page
-![Image](https://github.com/user-attachments/assets/735831f4-ec24-4d87-80a5-6fbcb53b0991)
+![Image](https://github.com/user-attachments/assets/774e6c3c-a64a-4143-b749-ec3787b885e6)
 
 ## How to Install and Run
 
